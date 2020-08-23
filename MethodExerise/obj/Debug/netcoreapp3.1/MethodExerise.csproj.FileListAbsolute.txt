@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\MethodExerise\MethodExerise\bin\Debug\netcoreapp3.1\MethodExerise.exe
+C:\Users\User\source\repos\MethodExerise\MethodExerise\bin\Debug\netcoreapp3.1\MethodExerise.deps.json
+C:\Users\User\source\repos\MethodExerise\MethodExerise\bin\Debug\netcoreapp3.1\MethodExerise.runtimeconfig.json
+C:\Users\User\source\repos\MethodExerise\MethodExerise\bin\Debug\netcoreapp3.1\MethodExerise.runtimeconfig.dev.json
+C:\Users\User\source\repos\MethodExerise\MethodExerise\bin\Debug\netcoreapp3.1\MethodExerise.dll
+C:\Users\User\source\repos\MethodExerise\MethodExerise\bin\Debug\netcoreapp3.1\MethodExerise.pdb
+C:\Users\User\source\repos\MethodExerise\MethodExerise\obj\Debug\netcoreapp3.1\MethodExerise.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MethodExerise\MethodExerise\obj\Debug\netcoreapp3.1\MethodExerise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MethodExerise\MethodExerise\obj\Debug\netcoreapp3.1\MethodExerise.AssemblyInfo.cs
+C:\Users\User\source\repos\MethodExerise\MethodExerise\obj\Debug\netcoreapp3.1\MethodExerise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MethodExerise\MethodExerise\obj\Debug\netcoreapp3.1\MethodExerise.dll
+C:\Users\User\source\repos\MethodExerise\MethodExerise\obj\Debug\netcoreapp3.1\MethodExerise.pdb
+C:\Users\User\source\repos\MethodExerise\MethodExerise\obj\Debug\netcoreapp3.1\MethodExerise.genruntimeconfig.cache
